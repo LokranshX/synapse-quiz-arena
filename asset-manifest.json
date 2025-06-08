@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/synapse-quiz-arena/static/css/main.5f9a98a3.css",
-    "main.js": "/synapse-quiz-arena/static/js/main.90bcafb8.js",
+    "main.js": "/synapse-quiz-arena/static/js/main.870e63e5.js",
     "index.html": "/synapse-quiz-arena/index.html",
     "main.5f9a98a3.css.map": "/synapse-quiz-arena/static/css/main.5f9a98a3.css.map",
-    "main.90bcafb8.js.map": "/synapse-quiz-arena/static/js/main.90bcafb8.js.map"
+    "main.870e63e5.js.map": "/synapse-quiz-arena/static/js/main.870e63e5.js.map"
   },
   "entrypoints": [
     "static/css/main.5f9a98a3.css",
-    "static/js/main.90bcafb8.js"
+    "static/js/main.870e63e5.js"
   ]
 }
