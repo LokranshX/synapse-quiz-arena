@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import io from 'socket.io-client';
 
-const socket = io('http://localhost:5000'); // Подключаемся к бэкенду
+const socket = io('https://synapse-quiz-arena.onrender.com'); // Подключаемся к бэкенду
 
 function App() {
   const [playerName, setPlayerName] = useState('');
